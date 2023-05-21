@@ -1,0 +1,13 @@
+pass,accountname - 50
+id - 36
+name - 255
+name - 500
+code - 20
+day - datetime
+type - int
+email - 100
+phonenumber - 10
+money - decimal 22,4
+etc - text
+address - 500
+namefile - 200
